@@ -1,4 +1,7 @@
-
 #two, #three, #four {
   display: none;
+}
+
+a {
+  text-decoration: none;
 }
