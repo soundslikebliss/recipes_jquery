@@ -1,22 +1,22 @@
 $( document ).ready(function() {
   $('#one').click(function(){
-    $('#one').fadeOut('medium', function(){
-      $('#two').fadeIn('medium');
+    $('#one').fadeOut('slow', function(){
+      $('#two').fadeIn('slow');
     });
   });
   $('#two').click(function(){
-    $('#two').fadeOut('medium', function(){
-      $('#three').fadeIn('medium');
+    $('#two').fadeOut('slow', function(){
+      $('#three').fadeIn('slow');
       });
   	});
    $('#three').click(function(){
-    $('#three').fadeOut('medium', function(){
-      $('#four').fadeIn('medium');
+    $('#three').fadeOut('slow', function(){
+      $('#four').fadeIn('slow');
       });
   	});
    $('#four').click(function(){
-    $('#four').fadeOut('medium', function(){
-      $('#one').fadeIn('medium');
+    $('#four').fadeOut('slow', function(){
+      $('#one').fadeIn('slow');
       });
   	});
   });

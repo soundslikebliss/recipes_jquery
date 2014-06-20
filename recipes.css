@@ -1,7 +1,13 @@
+html, body {
+  background: url(sweet-cinnamon-french-toast2.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
 #two, #three, #four {
   display: none;
 }
 
-a {
+a:hover {
   text-decoration: none;
 }
