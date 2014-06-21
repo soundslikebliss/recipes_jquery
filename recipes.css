@@ -1,5 +1,5 @@
 html, body {
-  background: url(sweet-cinnamon-french-toast2.png);
+  background: url(cinnamon3.png);
   background-size: 100%;
   background-repeat: no-repeat;
 }
@@ -10,4 +10,14 @@ html, body {
 
 a:hover {
   text-decoration: none;
+}
+
+#recipeText {
+  margin-top: 25%;
+  background-color: black;
+  opacity: 0.8;
+}
+
+.center {
+  text-align: center;
 }
